@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-image: url(./images/copy\ pexels-anastasia-belousova-3556686\ .jpg);
+    background-size: cover;
+    text-align:center;
+}
