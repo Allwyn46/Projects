@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37a89745.css",
+    "main.js": "/static/js/main.b6ece92f.js",
+    "static/media/Atomic-habits.jpg": "/static/media/Atomic-habits.50a28f0505bb853b25ee.jpg",
+    "static/media/TPOM.jpg": "/static/media/TPOM.ea27c0b52ed88b2fae23.jpg",
+    "static/media/power.jpg": "/static/media/power.c85ebe08dca20c8f4150.jpg",
+    "index.html": "/index.html",
+    "main.37a89745.css.map": "/static/css/main.37a89745.css.map",
+    "main.b6ece92f.js.map": "/static/js/main.b6ece92f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a89745.css",
+    "static/js/main.b6ece92f.js"
+  ]
+}
